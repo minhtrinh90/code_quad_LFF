@@ -1,0 +1,54 @@
+ZB-13: coordinator
+	MAC: 0x0013A200
+     	     0x40AE19DB
+	PAN ID: 3253
+	SC: FFFF
+	DH: 0
+	DL: FFFF
+	MY: 0
+--------------------------------
+ZB-09: router
+	MAC: 0x0013A200
+     	     0x40AE1A8C
+	PAN ID: 3253
+	SC: FFFF
+	DH: 0
+	DL: FFFF
+	MY: FFFE
+--------------------------------
+ZB-23: router
+	MAC: 0x0013A200
+     	     0x40D8A1DB
+	PAN ID: 3253
+	SC: FFFF
+	DH: 0
+	DL: FFFF
+	MY: FFFE
+--------------------------------
+ZB-14: router
+	MAC: 0x0013A200
+     	     0x40AE19DA
+	PAN ID: 3253
+	SC: FFFF
+	DH: 0
+	DL: FFFF
+	MY: FFFE
+--------------------------------
+ZB-16: router
+	MAC: 0x0013A200
+     	     0x40D8A1D4
+	PAN ID: 3253
+	SC: FFFF
+	DH: 0
+	DL: FFFF
+	MY: FFFE
+--------------------------------
+ZB-17: router
+	MAC: 0x0013A200
+     	     0x40D8A223
+	PAN ID: 3253
+	SC: FFFF
+	DH: 0
+	DL: FFFF
+	MY: FFFE
+--------------------------------
